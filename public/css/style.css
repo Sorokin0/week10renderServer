@@ -170,3 +170,68 @@ footer ul li a {
     text-decoration: none;
     color: #777;
 }
+
+.container {
+    margin: 2rem auto;
+    width: 75%;
+}
+
+.form-container {
+    width: auto;
+    text-align: center;
+    margin: 2rem auto;
+}
+
+form {
+    width: 75%;
+    height: 2rem;
+    margin: 0 auto;
+}
+
+form input{
+    width: 250px;
+    height: 1.5rem;
+}
+
+form button {
+    width: 75px;
+    height: 1.5rem;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.result-container {
+    text-align: center;
+}
+
+.movie-data-list {
+    list-style: none;
+    line-height: 2rem;
+}
+
+span {
+    font-weight: bold;
+}
+
+.image-container {
+    margin: 2rem auto;
+    text-align: center;
+}
+
+.image-container img{
+    width: 250px;
+    border-radius: 5px;
+}
+
+.back-button-container button {
+    width: 150px;
+    height: 1.5rem;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.back-button-container a {
+    text-decoration: none;
+    color: #000000;
+    font-weight: bold;
+}
