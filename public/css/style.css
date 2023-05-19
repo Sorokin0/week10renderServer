@@ -235,3 +235,9 @@ span {
     color: #000000;
     font-weight: bold;
 }
+
+.chat-container {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
